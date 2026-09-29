@@ -3,15 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBkiuSvnq7FrG24bFh3-DAvX48SxyiVh8E",
-  authDomain: "testpwiii.firebaseapp.com",
-  projectId: "testpwiii",
-  storageBucket: "testpwiii.firebasestorage.app",
-  messagingSenderId: "902384801352",
-  appId: "1:902384801352:web:aa4c54b3edc5870a966a7d",
-
-  // URL do Realtime Database
-  databaseURL: "https://testpwiii-default-rtdb.firebaseio.com"
+  apiKey: "AIzaSyA_iVd6a32vqFL0VqLv3oPs61Yw70HzhPM",
+  authDomain: "projeto-teste-b1106.firebaseapp.com",
+  projectId: "projeto-teste-b1106",
+  storageBucket: "projeto-teste-b1106.firebasestorage.app",
+  messagingSenderId: "565887251942",
+  appId: "1:565887251942:web:1f0896ab06086cf1b01227",
+  databaseURL: "https://projeto-teste-b1106-default-rtdb.firebaseio.com"
 };
 
 // Inicializa o Firebase
